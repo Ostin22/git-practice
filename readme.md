@@ -1,1 +1,1 @@
-Este es un proyecto react | Este es un cambio | Ricardo Carrion
+Este es un proyecto react | Este es un cambio | Ricardo Carrion | 22 de marzo del 2003
