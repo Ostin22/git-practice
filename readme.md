@@ -1,1 +1,2 @@
-Este es un proyecto react | Este es un nuevo cambio | Jhosue
+Este es un proyecto react | Este es un cambio | Ricardo Carrion, Jhosue Lopez
+
